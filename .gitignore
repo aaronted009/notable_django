@@ -5,3 +5,6 @@ venv/
 # Python compiled files
 __pycache__/
 *.pyc
+
+# Local database
+db.sqlite3
